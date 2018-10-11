@@ -2,7 +2,7 @@
 
 Meetup materials
 
-### 2018-10-11 GitHub for projects 
+## 2018-10-11 GitHub for projects 
 
 By Mauro Lepore ([slides](https://bit.ly/github-for-projects))
 
