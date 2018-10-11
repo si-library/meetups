@@ -2,12 +2,5 @@
 
 Meetup materials
 
-## 2018-10-11 GitHub for projects 
+## [2018-10-11 GitHub for projects (Mauro Lepore)](https://github.com/si-library/meetups/issues/1)
 
-By Mauro Lepore ([slides](https://bit.ly/github-for-projects))
-
-![](https://i.imgur.com/60IA0qz.png)
-
-![](https://i.imgur.com/TdFODNn.png)
-
----
